@@ -1,23 +1,25 @@
 body {
-    background-image: url("./img/airplane.jpg");
-    background-size: 100%
+	background-color: rgb(100, 107, 116);
+	font-family: 'Rajdhani', sans-serif;
+    /* background-image: url("./img/airplane.jpg");
+    background-size: 100% */
 }
 
 .logo {
     text-align: center;
     color: #fff;
-    font-family: 'Rokkitt';
 }
 
 .logoimg {
-    height: 100px;
+	height: 100px;
+	padding-top: 3%
 }
 
 .grid2 {
 	position: relative;
 	clear: both;
 	margin: 0 auto;
-	padding: 1em 0 4em;
+	/* padding: 1em 0 4em; */
 	max-width: 850px;
 	list-style: none;
 	text-align: center;
